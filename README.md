@@ -13,8 +13,9 @@ This paper studies the problem of observability-enhanced target motion estimatio
 
 ### Framework
 ![Framework](Framework.png)
-
-<img src="Thrust.png" width="50%" align="center">
+<div align="center">
+<img src="Thrust.png" width="50%" >
+</div>
 ### Code
 The MATLAB code shows the numerical experiments of the proposed estimator for a target MAV in Section VIII.
 
