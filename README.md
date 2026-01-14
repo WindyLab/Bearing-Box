@@ -21,6 +21,6 @@ This paper studies the problem of observability-enhanced target motion estimatio
 The MATLAB code shows the four numerical experiments of the proposed estimator for a target MAV in Section VIII.
 
 ### Contact
-If you have any problems, feel free to contact me by email: zhangyin@westlake.edu.cn or zhangyin1823@gmail.com. 
+If you have any problems, feel free to contact me by email: zhangyin(at)westlake.edu.cn or zhangyin1823(at)gmail.com. 
 
 
